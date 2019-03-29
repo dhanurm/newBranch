@@ -9,6 +9,7 @@ public class addController {
 	public String add() {
 		//fnsdjfsd
 		System.out.println("inside controller..");
+		//gdshfhgdsfh
 		return "display.jsp";
 	}
 }
