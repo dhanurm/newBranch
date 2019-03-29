@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class addController {
 	@RequestMapping("/add")
 	public String add() {
+		//fnsdjfsd
 		System.out.println("inside controller..");
 		return "display.jsp";
 	}
