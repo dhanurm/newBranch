@@ -10,5 +10,6 @@ public class addController {
 		//fnsdjfsd
 		System.out.println("inside controller..");
 		return "display.jsp";
+		//shgsfgd
 	}
 }
